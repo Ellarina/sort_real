@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1359135186 source:c:\users\karolyn\desktop\data structure\fileio\main.cpp
+	<iostream>
+	<fstream>
+	"string"
+	<sstream>
+
+1359532310 source:c:\documents and settings\jowel\desktop\mine\skul\fileio\main.cpp
+	<iostream>
+	<fstream>
+	"string"
+	<sstream>
+

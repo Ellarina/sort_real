@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1359642016 source:c:\users\spangha\desktop\sort\main.cpp
+	<iostream>
+	<fstream>
+	"string"
+	<sstream>
+
+1359642018 source:e:\sort\main.cpp
+	<iostream>
+	<fstream>
+	"string"
+	<sstream>
+
